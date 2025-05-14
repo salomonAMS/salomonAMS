@@ -1,4 +1,4 @@
-# Me-in-few-word
+# Ghost-dev
 👋 Hi, I'm Salomon!
 
 * 🎯 Front-End Specialist with a growing interest in Back-End, I love building dynamic and intuitive interfaces while diving into servers and databases.
