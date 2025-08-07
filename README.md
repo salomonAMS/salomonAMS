@@ -9,8 +9,6 @@
 * Front-End: HTML5, CSS3, JavaScript(learning),Bootstrap 
 * Back-End: PHP, Laravel (learning)
 * Tools & Methods: Git, GitHub, VS Code
-<img width="10" height="10" alt="mon portfolio" src="https://github.com/user-attachments/assets/edbbe115-40a2-4ac2-b644-c06c327eaf35" />
-
 🌱 Currently Learning
 * Laravel
 * Advanced JavaScript Concepts
@@ -24,4 +22,5 @@
 📌 Always up for new challenges—let’s connect!
 
 
-![Visiteur GitHub](https://profile-counter.glitch.me/salomonAMS/count.svg )
+<img width="150" height="150" alt="mon portfolio" src="https://github.com/user-attachments/assets/edbbe115-40a2-4ac2-b644-c06c327eaf35" />
+
