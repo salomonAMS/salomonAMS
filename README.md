@@ -11,11 +11,11 @@
 * Tools & Methods: Git, GitHub, VS Code
 🌱 Currently Learning
 * Laravel
-* Advanced JavaScript Concepts                                                               <a href="https://salomonams.github.io/mon-portfolio.github.io/" target="_blank">
+* Advanced JavaScript Concepts                                          
+* UI/UX Best Practices
+                                                <a href="https://salomonams.github.io/mon-portfolio.github.io/" target="_blank">
   <img width="150" height="150" alt="mon portfolio" src="https://github.com/user-attachments/assets/edbbe115-40a2-4ac2-b644-c06c327eaf35" />
 </a>
-* UI/UX Best Practices
-
 📫 Get in Touch
 📧 Email: amssalomon@gmail.com
 
