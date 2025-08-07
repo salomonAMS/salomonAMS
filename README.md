@@ -9,6 +9,7 @@
 * Front-End: HTML5, CSS3, JavaScript(learning),Bootstrap 
 * Back-End: PHP, Laravel (learning)
 * Tools & Methods: Git, GitHub, VS Code
+<img width="1024" height="1024" alt="mon portfolio" src="https://github.com/user-attachments/assets/edbbe115-40a2-4ac2-b644-c06c327eaf35" />
 
 🌱 Currently Learning
 * Laravel
