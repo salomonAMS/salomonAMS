@@ -1,6 +1,4 @@
-<table>
-  <tr>
-    <td>
+
       # Ghost-dev
       👋 Hi, I'm Salomon!
 
@@ -17,17 +15,15 @@
       - Laravel
       - Advanced JavaScript Concepts
       - UI/UX Best Practices
-
+      <br>
+      <a href="https://salomonams.github.io/mon-portfolio.github.io/" target="_blank">
+<img width="124" height="124" alt="mon portfolio" src="https://github.com/user-attachments/assets/07e09f9c-a02c-47da-9320-9f8a85ac581f" />
+ </a>
       📫 **Get in Touch**
       📧 Email: amssalomon@gmail.com
       💬 Open to collaborations, open-source projects, and tech discussions!
 
       📌 Always up for new challenges—let’s connect!
 
-      <br> <a href="https://salomonams.github.io/mon-portfolio.github.io/" target="_blank">
-        <img width="1024" height="1024" alt="mon portfolio" src="https://github.com/user-attachments/assets/6cd2b1bc-39eb-49ec-8aa8-9148c856a452" />
-      </a>
-    </td>
-
-  </tr>
-</table>
+     
+ 
