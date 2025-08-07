@@ -25,8 +25,9 @@
       📌 Always up for new challenges—let’s connect!
 
       <br> <a href="https://salomonams.github.io/mon-portfolio.github.io/" target="_blank">
-       <img width="150" height="150" alt="mon portfolio" src="https://github.com/user-attachments/assets/edbbe115-40a2-4ac2-b644-c06c327eaf35" />
+        <img width="1024" height="1024" alt="mon portfolio" src="https://github.com/user-attachments/assets/6cd2b1bc-39eb-49ec-8aa8-9148c856a452" />
       </a>
     </td>
+
   </tr>
 </table>
