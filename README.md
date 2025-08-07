@@ -3,7 +3,10 @@
 
 * 🎯 Front-End Specialist with a growing interest in Back-End, I love building dynamic and intuitive interfaces while diving into servers and databases.
 * 🚀 Currently learning Laravel to expand my full-stack skills and explore powerful PHP development.
-* 💡 I enjoy collaborating on innovative projects, exchanging ideas, and learning from fellow developers. 
+* 💡 I enjoy collaborating on innovative projects, exchanging ideas, and learning from fellow developers.
+  <a href="https://salomonams.github.io/mon-portfolio.github.io/" target="_blank">
+                                                                                      <img width="150" height="150" alt="mon portfolio"       src="https://github.com/user-attachments/assets/edbbe115-40a2-4ac2-b644-c06c327eaf35" />
+</a>
 
 🔧 Tech Stack
 * Front-End: HTML5, CSS3, JavaScript(learning),Bootstrap 
@@ -13,15 +16,12 @@
 * Laravel
 * Advanced JavaScript Concepts                                          
 * UI/UX Best Practices
-                                                <a href="https://salomonams.github.io/mon-portfolio.github.io/" target="_blank">
-  <img width="150" height="150" alt="mon portfolio" src="https://github.com/user-attachments/assets/edbbe115-40a2-4ac2-b644-c06c327eaf35" />
-</a>
 📫 Get in Touch
 📧 Email: amssalomon@gmail.com
-
 💬 Open to collaborations, open-source projects, and tech discussions!
 
 📌 Always up for new challenges—let’s connect!
+                                                                                          
 
 
 
